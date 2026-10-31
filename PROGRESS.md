@@ -30,7 +30,7 @@ Automated Bengaluru rental-market intelligence. Weekly pipeline: scrape NoBroker
 - Windows 11, Python 3.10.11, VS Code
 - GPU: NVIDIA RTX 3050 (~4GB VRAM — batch 8–16 + grad accumulation)
 - Repo location: `C:\coding\bengaluru-renter-copilot`
-- GitHub: https://github.com/Vkn5712/bengaluru-renter-copilot (private, main branch)
+- GitHub: https://github.com/Vkn5712/bengaluru-renter-copilot (public, main branch)
 - User email (git): `vknair2003@gmail.com`, name: `Vishnu K Nair`
 - Timezone: Asia/Calcutta (UTC+5:30)
 
